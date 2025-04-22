@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #fff8f5 url('https://i.imgur.com/L9D7qQd.png') repeat;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+header {
+    background-color: #fff0f5;
+    padding: 2rem 1rem 1rem;
+}
+.manuscrita {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3rem;
+    color: #741936;
+}
+.data {
+    font-size: 1.2rem;
+}
+.contador, .playlist {
+    padding: 2rem 1rem;
+}
+#contador {
+    font-size: 2rem;
+    color: #3c1053;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    padding: 0.5rem;
+    background-color: #fce4ec;
+    margin: 0.5rem auto;
+    max-width: 300px;
+    border-radius: 8px;
+}
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #f9f9f9;
+}
